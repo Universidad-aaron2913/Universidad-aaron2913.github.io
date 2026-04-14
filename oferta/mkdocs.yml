@@ -1,7 +1,11 @@
-site_name: Oferta Académica UTPL
+site_name: Oferta Académica
+site_url: https://universidad-aaron2913.github.io/oferta/
+
+theme:
+  name: mkdocs
 
 nav:
-  - Inicio: oferta/index.md
+  - Inicio: index.md
   - Facultades:
       - Ingeniería: facultades/ingenieria.md
       - Ciencias Sociales: facultades/ciencias_sociales.md
