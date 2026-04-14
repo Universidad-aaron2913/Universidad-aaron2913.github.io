@@ -1,0 +1,7 @@
+nav:
+  - Inicio: index.md
+  - Facultades:
+      - Ingeniería: facultades/ingenieria.md
+      - Ciencias Sociales: facultades/ciencias_sociales.md
+      - Salud: facultades/salud.md
+      - Administración: facultades/administracion.md
