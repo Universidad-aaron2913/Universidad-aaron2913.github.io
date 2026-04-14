@@ -1,7 +1,7 @@
 site_name: Oferta Académica UTPL
 
 nav:
-  - Inicio: index.md
+  - Inicio: oferta/index.md
   - Facultades:
       - Ingeniería: facultades/ingenieria.md
       - Ciencias Sociales: facultades/ciencias_sociales.md
