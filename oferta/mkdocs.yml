@@ -1,5 +1,4 @@
 site_name: Oferta Académica UTPL
-site_url: https://universidad-aaron2913.github.io/oferta
 
 nav:
   - Inicio: index.md
