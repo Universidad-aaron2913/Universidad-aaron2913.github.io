@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://universidad-aaron2913.github.io/oferta/</loc>
+         <loc>https://universidad-aaron2913.github.io/</loc>
          <lastmod>2026-04-15</lastmod>
     </url>
     <url>
-         <loc>https://universidad-aaron2913.github.io/oferta/facultades/administracion/</loc>
+         <loc>https://universidad-aaron2913.github.io/facultades/Medicina/</loc>
          <lastmod>2026-04-15</lastmod>
     </url>
     <url>
-         <loc>https://universidad-aaron2913.github.io/oferta/facultades/ciencias_sociales/</loc>
+         <loc>https://universidad-aaron2913.github.io/facultades/administracion/</loc>
          <lastmod>2026-04-15</lastmod>
     </url>
     <url>
-         <loc>https://universidad-aaron2913.github.io/oferta/facultades/ingenieria/</loc>
+         <loc>https://universidad-aaron2913.github.io/facultades/ciencias_sociales/</loc>
          <lastmod>2026-04-15</lastmod>
     </url>
     <url>
-         <loc>https://universidad-aaron2913.github.io/oferta/facultades/salud/</loc>
+         <loc>https://universidad-aaron2913.github.io/facultades/ingenieria/</loc>
          <lastmod>2026-04-15</lastmod>
     </url>
 </urlset>
