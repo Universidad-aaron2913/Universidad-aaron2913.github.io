@@ -1,24 +1,25 @@
 # Oferta Académica
 
-Bienvenido a la oferta académica de nuestra universidad.  
-Seleccione una facultad para conocer las carreras disponibles.
+La Universidad presenta su oferta académica organizada por facultades, permitiendo una consulta clara y accesible de las carreras disponibles y el título que se obtiene en cada una.
+
+Seleccione una facultad para visualizar la información correspondiente.
 
 <div class="grid cards" markdown>
 
-- ### Ingeniería
-  Carreras tecnológicas orientadas a la innovación.  
-  [Ver carreras](facultades/ingenieria.md)
+- ### Facultad de Administración
+  Carreras orientadas a la gestión empresarial, contabilidad y economía.  
+  [Ver carreras](facultades/administracion.md)
 
-- ### Ciencias Sociales
-  Formación en áreas humanas y sociales.  
+- ### Facultad de Ciencias Sociales
+  Programas enfocados en el desarrollo humano, jurídico y educativo.  
   [Ver carreras](facultades/ciencias_sociales.md)
 
-- ### Salud
-  Carreras enfocadas en el bienestar integral.  
+- ### Facultad de Salud
+  Carreras orientadas al bienestar y cuidado de la salud.  
   [Ver carreras](facultades/salud.md)
 
-- ### Administración
-  Formación en gestión empresarial y negocios.  
-  [Ver carreras](facultades/administracion.md)
+- ### Facultad de Ingeniería
+  Programas relacionados con tecnología, sistemas y desarrollo industrial.  
+  [Ver carreras](facultades/ingenieria.md)
 
 </div>

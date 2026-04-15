@@ -1,20 +1,43 @@
-#  Facultad de Administración
+# Facultad de Administración
 
-Formación en gestión empresarial, finanzas y negocios.
-
----
-
-##  Carreras disponibles
+Seleccione una carrera para visualizar su información.
 
 <div class="grid cards" markdown>
 
-- ### Administración de Empresas
-  **Título:** Licenciado en Administración de Empresas
+-   ??? info "Administración de Empresas"
 
-- ### Contabilidad y Auditoría
-  **Título:** Licenciado en Contabilidad y Auditoría
+        **Duración:** 8 semestres  
+        **Título que otorga:** Licenciado en Administración de Empresas  
 
-- ### Economía
-  **Título:** Economista
+        **Campo laboral:**
+
+        - Empresas privadas  
+        - Gestión empresarial  
+        - Recursos humanos  
+        - Emprendimientos  
+
+-   ??? info "Contabilidad y Auditoría"
+
+        **Duración:** 8 semestres  
+        **Título que otorga:** Licenciado en Contabilidad y Auditoría  
+
+        **Campo laboral:**
+
+        - Contabilidad financiera  
+        - Auditoría  
+        - Empresas públicas  
+        - Consultoría contable  
+
+-   ??? info "Marketing"
+
+        **Duración:** 8 semestres  
+        **Título que otorga:** Licenciado en Marketing  
+
+        **Campo laboral:**
+
+        - Publicidad  
+        - Ventas  
+        - Investigación de mercados  
+        - Marketing digital  
 
 </div>

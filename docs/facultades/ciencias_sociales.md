@@ -1,20 +1,43 @@
-#  Facultad de Ciencias Sociales
+# Facultad de Ciencias Sociales
 
-Formación en áreas humanas y sociales.
-
----
-
-## 📘 Carreras disponibles
+Seleccione una carrera para visualizar su información.
 
 <div class="grid cards" markdown>
 
-- ### Derecho
-  **Título:** Abogado
+-   ??? info "Derecho"
 
-- ### Psicología
-  **Título:** Psicólogo
+        **Duración:** 9 semestres  
+        **Título que otorga:** Abogado  
 
-- ### Comunicación
-  **Título:** Licenciado en Comunicación
+        **Campo laboral:**
+
+        - Estudios jurídicos  
+        - Instituciones públicas  
+        - Consultoría legal  
+        - Litigación  
+
+-   ??? info "Psicología"
+
+        **Duración:** 8 semestres  
+        **Título que otorga:** Licenciado en Psicología  
+
+        **Campo laboral:**
+
+        - Atención psicológica  
+        - Recursos humanos  
+        - Centros educativos  
+        - Consultoría psicológica  
+
+-   ??? info "Comunicación"
+
+        **Duración:** 8 semestres  
+        **Título que otorga:** Licenciado en Comunicación  
+
+        **Campo laboral:**
+
+        - Medios de comunicación  
+        - Relaciones públicas  
+        - Periodismo  
+        - Marketing digital  
 
 </div>
