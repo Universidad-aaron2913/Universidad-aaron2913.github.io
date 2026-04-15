@@ -1,6 +1,6 @@
 # Oferta Académica
 
-La Universidad presenta su oferta académica organizada por facultades, permitiendo una consulta clara y accesible de las carreras disponibles y el título que se obtiene en cada una.
+La Universidad Tecnica Particular de Loja presenta su oferta académica organizada por facultades, permitiendo una consulta clara y accesible de las carreras disponibles y el título que se obtiene en cada una.
 
 Seleccione una facultad para visualizar la información correspondiente.
 
